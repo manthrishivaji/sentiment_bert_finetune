@@ -14,9 +14,11 @@ This project is a Sentiment Analysis Web App that consists of:
 
 ## Features
 
-✅ Sentiment analysis (Positive/Negative/Neutral).
-✅ REST API with FastAPI.
-✅ Interactive UI with Gradio.
-✅ Fully containerized using Docker.
+- ✅ Sentiment analysis (Positive/Negative/Neutral).
+- ✅ REST API with FastAPI.
+- ✅ Interactive UI with Gradio.
+- ✅ Fully containerized using Docker.
 <!-- ✅ Cloud deployment-ready. -->
+
+### Note : I did fine tune on notebook and pushed to HF-hub.For project I downloaded the model from hub.
 
