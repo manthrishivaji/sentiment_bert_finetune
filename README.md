@@ -22,3 +22,6 @@ This project is a Sentiment Analysis Web App that consists of:
 
 ### Note : I did fine tune on notebook and pushed to HF-hub.For project I downloaded the model from hub.
 
+- Clone the repo
+- Install required libraries in respective backend and frontend folders
+- Go to backend folder file named "model.py" and run it it will create a folder "model" and save the model init.
