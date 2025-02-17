@@ -25,3 +25,4 @@ This project is a Sentiment Analysis Web App that consists of:
 - Clone the repo
 - Install required libraries in respective backend and frontend folders
 - Go to backend folder file named "model.py" and run it it will create a folder "model" and save the model init.
+- To verify if everything is working fine , in frontend/gradio.py for api_url modify it accordingly.Dont use backend:predict/ it wont work, use 127.0.0.1/predict or acoordingly.
